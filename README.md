@@ -61,29 +61,6 @@ baseurl: "/resume.io"
 	修改 `_includes/resumer_06-personal_project.html` 文件中内容
 
 
-## 本地搭建
-
-在本地安装[Jekyll](https://jekyllrb.com/).
-然后在项目目录执行`jekyll s`命令,如下
-
-```bash
-[root@localhost ~]# jekyll s
-Configuration file: C:/..../resume.io/_config.yml
-            Source: C:/..../resume.io
-       Destination: C:/..../resume.io/_site
- Incremental build: disabled. Enable with --incremental
-      Generating...
-                    done in 0.371 seconds.
-  Please add the following to your Gemfile to avoid polling for changes:
-    gem 'wdm', '>= 0.1.0' if Gem.win_platform?
- Auto-regeneration: enabled for 'C:/..../resume.io'
-    Server address: http://127.0.0.1:4000/resume.io/
-  Server running... press ctrl-c to stop.
-```
-
-然后可以访问[http://127.0.0.1:4000/resume.io/](http://127.0.0.1:4000/resume.io/)来访问本地的服务了。
-
-
 ## 在线预览
 
 [非你莫属--个人简历模板](http://xiaodan_yu.gitee.io/resume.io)
