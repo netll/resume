@@ -90,13 +90,13 @@ Configuration file: C:/..../resume.io/_config.yml
 
 ## 截图预览
 
-![01.png](http://xiaodan_yu.gitee.io/resume.io/snapshot/11_01.png)
+![01.png](https://github.com/ikym/resume/blob/master/snapshot/11_01.png)
 
-![02.png](http://xiaodan_yu.gitee.io/resume.io/snapshot/11_02.png)
+![02.png](https://github.com/ikym/resume/blob/master/snapshot/11_02.png)
 
-![03.png](http://xiaodan_yu.gitee.io/resume.io/snapshot/11_03.png)
+![03.png](https://github.com/ikym/resume/blob/master/snapshot/11_03.png)
 
-![04.png](http://xiaodan_yu.gitee.io/resume.io/snapshot/11_04.png)
+![04.png](https://github.com/ikym/resume/blob/master/snapshot/11_04.png)
 
 
 ## 参考
@@ -104,4 +104,4 @@ Configuration file: C:/..../resume.io/_config.yml
 本简历模板基于[Certy](http://sc.chinaz.com/moban/170307198220.htm)修改而来。保留了所有的样式，基于Jekyll重构了页面框架，并去掉了一些没有必要的内容，整合一页简历。
 
 ## 开源协议
-[MIT](https://gitee.com/xiaodan_yu/resume.io/blob/master/LICENSE)
+[MIT](https://github.com/ikym/resume/blob/master/LICENSE)
