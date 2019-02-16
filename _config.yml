@@ -8,7 +8,7 @@ facebook: https://www.facebook.com/
 phone: 132653351111
 email: kli@live.com
 
-baseurl: "ikym.github.io"
+baseurl: "/resume"
 
 permalink: /:year/:month/:day/:title/
 
