@@ -8,7 +8,7 @@ facebook: https://www.facebook.com/
 phone: 1580424XXXX
 email: xxxx@xxx.com
 
-baseurl: "/resume"
+baseurl: "ikym.github.io"
 
 permalink: /:year/:month/:day/:title/
 
